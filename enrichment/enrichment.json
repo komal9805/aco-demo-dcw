@@ -1,9 +1,36 @@
 {
-  "categories": [
+  "columns": [
+    "path",
+    "title",
+    "products",
+    "categories",
+    "positions"
+  ],
+  "data": [
     {
-      "path": "/tires",
-      "title": "Tires",
-      "products": ["aur-flu-tir-prm-2015", "bol-mam-tir-std-2016"]
+      "path": "/enrichment",
+      "title": "enrichment",
+      "products": [],
+      "categories": [],
+      "positions": []
+    },
+    {
+      "path": "/enrichment/enrichment",
+      "title": "",
+      "products": [],
+      "categories": [],
+      "positions": []
+    },
+    {
+      "path": "/enrichment/metadata",
+      "title": "",
+      "products": [],
+      "categories": [],
+      "positions": []
     }
-  ]
+  ],
+  "offset": 0,
+  "limit": 4,
+  "total": 4,
+  ":type": "sheet"
 }
