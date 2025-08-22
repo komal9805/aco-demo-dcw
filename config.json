@@ -5,8 +5,8 @@
    "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/CAVvSEYyp9C1bhC1cT3AEs/graphql",
    "headers": {
       "cs": {
-         "ac-view-id": "3ef0a45b-317a-4bea-a273-6be4ff625210",
-         "ac-price-book-id": "west_coast_inc",
+         "ac-view-id": "a134dc81-360e-4261-a24d-8f31e442f92b",
+         "ac-price-book-id": "global_visibility",
          "ac-source-locale": "en-US"
         }
       },
