@@ -1,26 +1,39 @@
 {
- "public": {
-   "default": {
-   "commerce-assets-enabled": true,
-   "commerce-core-endpoint": "https://www.aemshop.net/graphql",
-   "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/CAVvSEYyp9C1bhC1cT3AEs/graphql",
-   "headers": {
-      "cs": {
-         "ac-view-id": "6a747d13-b472-4565-8bb4-257661c688c4",
-         "ac-source-locale": "en-US"
+  "public": {
+    "default": {
+      "commerce-assets-enabled": true,
+      "commerce-core-endpoint": "https://na1-sandbox.api.commerce.adobe.com/CAVvSEYyp9C1bhC1cT3AEs/graphql",
+      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/CAVvSEYyp9C1bhC1cT3AEs/graphql",
+      "headers": {
+        "all": {
+          "Store": "default"
+        },
+        "cs": {
+          "AC-View-ID": "6a747d13-b472-4565-8bb4-257661c688c4",
+          "AC-Price-Book-ID": "east_coast_inc",
+          "AC-Source-Locale": "en-US"
         }
       },
       "analytics": {
-         "base-currency-code": "USD",
-         "environment": "Production",
-         "store-id": 1,
-         "store-name": "ACO Demo DCW",
-         "store-url": "https://main--aco-demo-dcw--komal9805.aem.live/",
-         "store-view-id": 1,
-         "store-view-name": "Default Store View",
-         "website-id": 1,
-         "website-name": "Main Website"
-       }
+        "base-currency-code": "USD",
+        "environment": "Testing",
+        "environment-id": "CAVvSEYyp9C1bhC1cT3AEs",
+        "store-code": "main_website_store",
+        "store-id": 1,
+        "store-name": "ACO Demo DCW",
+        "store-url": "https://main--aco-demo-dcw--komal9805.aem.live/",
+        "store-view-code": "default",
+        "store-view-id": 1,
+        "store-view-name": "Default Store View",
+        "website-code": "base",
+        "website-id": 1,
+        "website-name": "Main Website"
+      },
+      "plugins": {
+        "picker": {
+          "rootCategory": "2"
+        }
+      }
     }
-   }
+  }
 }
