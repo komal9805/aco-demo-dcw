@@ -2,11 +2,11 @@
   "public": {
     "default": {
       "commerce-core-endpoint": "https://na1-sandbox.api.commerce.adobe.com/4m1gMbgjnfNhadp18vbSSn/graphql",
-      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/4m1gMbgjnfNhadp18vbSSn/graphql",
+      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/CAVvSEYyp9C1bhC1cT3AEs/graphql",
       "commerce-assets-enabled": true,
       "headers": {
         "cs": {
-          "AC-Environment-Id": "4m1gMbgjnfNhadp18vbSSn",
+          "AC-Environment-Id": "CAVvSEYyp9C1bhC1cT3AEs",
           "AC-Source-Locale": "en-US",
           "AC-View-Id": "6a747d13-b472-4565-8bb4-257661c688c4",
           "AC-Price-Book-Id": "east_coast_inc"
